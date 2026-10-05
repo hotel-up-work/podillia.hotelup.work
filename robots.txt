@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://podillia.webart.work/sitemap.xml
+Sitemap: https://podillia.hotelup.work/sitemap.xml
